@@ -1,11 +1,64 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36" version="24.7.17">
   <diagram name="Page-1" id="Kv62BBXCvEudoCAHejfM">
-    <mxGraphModel dx="636" dy="715" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2122" dy="2530" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="57WmkJ6aOXJWe7MbY3Yq-1" value="HELLOO" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="105" y="208" width="70" height="30" as="geometry" />
+        <mxCell id="57WmkJ6aOXJWe7MbY3Yq-1" value="Hardware development" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-30" y="430" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="57WmkJ6aOXJWe7MbY3Yq-2" value="sysadmin" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="370" y="-50" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="57WmkJ6aOXJWe7MbY3Yq-3" value="Cyber security (Binary exploitation)&lt;div&gt;&lt;a href=&quot;https://academy.hackthebox.com/path/preview/intro-to-binary-exploitation#:~:text=To%20learn%20the%20basics%20of%20binary%20exploitation%2C%20we%20must%20first%20have%20a%20firm%20grasp%20of%20Computer%20Architecture%20and%20the%20Assembly%20Language.&quot;&gt;Require firm grasp of assembly language&lt;/a&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="110" y="150" width="240" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="57WmkJ6aOXJWe7MbY3Yq-5" value="Space industry" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-280" y="570" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="57WmkJ6aOXJWe7MbY3Yq-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="57WmkJ6aOXJWe7MbY3Yq-6" target="57WmkJ6aOXJWe7MbY3Yq-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="57WmkJ6aOXJWe7MbY3Yq-6" value="Robotics" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#d6b656;fillColor=#fff2cc;" vertex="1" parent="1">
+          <mxGeometry x="-130" y="500" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="57WmkJ6aOXJWe7MbY3Yq-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.529;entryY=0.933;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="57WmkJ6aOXJWe7MbY3Yq-5" target="57WmkJ6aOXJWe7MbY3Yq-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="57WmkJ6aOXJWe7MbY3Yq-19" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="-460" y="190" width="410" height="220" as="geometry" />
+        </mxCell>
+        <mxCell id="57WmkJ6aOXJWe7MbY3Yq-18" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="57WmkJ6aOXJWe7MbY3Yq-19">
+          <mxGeometry width="410" height="220" as="geometry" />
+        </mxCell>
+        <mxCell id="57WmkJ6aOXJWe7MbY3Yq-4" value="embed logic circuits on the board" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="57WmkJ6aOXJWe7MbY3Yq-19">
+          <mxGeometry x="105" y="160" width="200" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="57WmkJ6aOXJWe7MbY3Yq-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="57WmkJ6aOXJWe7MbY3Yq-19" source="57WmkJ6aOXJWe7MbY3Yq-10" target="57WmkJ6aOXJWe7MbY3Yq-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="57WmkJ6aOXJWe7MbY3Yq-10" value="processor with different architecture&lt;div&gt;(Provide an instruction set to control board)&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="57WmkJ6aOXJWe7MbY3Yq-19">
+          <mxGeometry x="80" y="90" width="250" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="57WmkJ6aOXJWe7MbY3Yq-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="57WmkJ6aOXJWe7MbY3Yq-19" source="57WmkJ6aOXJWe7MbY3Yq-11" target="57WmkJ6aOXJWe7MbY3Yq-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="57WmkJ6aOXJWe7MbY3Yq-11" value="Assembly language directly maps to processor instruction set" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="57WmkJ6aOXJWe7MbY3Yq-19">
+          <mxGeometry x="30" y="30" width="350" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="57WmkJ6aOXJWe7MbY3Yq-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0.133;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="57WmkJ6aOXJWe7MbY3Yq-3" target="57WmkJ6aOXJWe7MbY3Yq-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="57WmkJ6aOXJWe7MbY3Yq-16" value="Attack point" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="57WmkJ6aOXJWe7MbY3Yq-15">
+          <mxGeometry x="-0.1217" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="57WmkJ6aOXJWe7MbY3Yq-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.48;entryY=0.995;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="57WmkJ6aOXJWe7MbY3Yq-1" target="57WmkJ6aOXJWe7MbY3Yq-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="57WmkJ6aOXJWe7MbY3Yq-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.492;entryY=0.075;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="57WmkJ6aOXJWe7MbY3Yq-2" target="57WmkJ6aOXJWe7MbY3Yq-3">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
