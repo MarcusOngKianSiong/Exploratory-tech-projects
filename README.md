@@ -1,3 +1,24 @@
+**Visualisation link**: https://app.diagrams.net/?mode=github#HMarcusOngKianSiong%2FExploratory-tech-projects%2Fmaster%2Finformation%20links.drawio#%7B%22pageId%22%3A%22Kv62BBXCvEudoCAHejfM%22%7D
+
+_sample_
+> <img width="500px" src="./Sample%20concrete%20events%20to%20abstract%20model%20to%20concrete%20projects.jpg">
+
+## Current projects
+1. *(teleoperation, 3d graphics)* Interactive Coffee globe project
+2. *(Data center design, system administrator)* minature telemetry system infrastructure documentation
+3. ✅ *(Data center design, system administrator)* Personal website hosting
+
+
+#### Upcoming
+1. *(Data center design, system administrator)* Coffee delivery drone project
+
+
+
+
+
+---------
+
+
 ## Goal
 > Be in a position to own space infrastructure
 > > **Point of attack**: Building 
@@ -14,7 +35,7 @@
 > Answer
 > >Hardware and design.
 
-Visualisation link: https://app.diagrams.net/?mode=github#HMarcusOngKianSiong%2FExploratory-tech-projects%2Fmaster%2Finformation%20links.drawio#%7B%22pageId%22%3A%22Kv62BBXCvEudoCAHejfM%22%7D
+
 
 ### Criteria:
 1. Flexibility, I can create anything
