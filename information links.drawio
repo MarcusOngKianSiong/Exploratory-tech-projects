@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36" version="24.7.17">
   <diagram name="Page-1" id="Kv62BBXCvEudoCAHejfM">
-    <mxGraphModel dx="1541" dy="1688" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2094" dy="2158" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -216,6 +216,27 @@
               <mxPoint x="60" y="553" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="btLgKLK2G1OdQXX4LP68-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="btLgKLK2G1OdQXX4LP68-46" target="57WmkJ6aOXJWe7MbY3Yq-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="btLgKLK2G1OdQXX4LP68-46" value="teleoperation" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-360" y="500" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="btLgKLK2G1OdQXX4LP68-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="btLgKLK2G1OdQXX4LP68-48" target="btLgKLK2G1OdQXX4LP68-46">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="btLgKLK2G1OdQXX4LP68-48" value="3d graphics" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-530" y="500" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="btLgKLK2G1OdQXX4LP68-50" value="coffee exchange globe project" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-800" y="500" width="180" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="btLgKLK2G1OdQXX4LP68-51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.011;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="btLgKLK2G1OdQXX4LP68-50" target="btLgKLK2G1OdQXX4LP68-48">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="btLgKLK2G1OdQXX4LP68-52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.522;entryY=0.033;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="btLgKLK2G1OdQXX4LP68-7" target="btLgKLK2G1OdQXX4LP68-48">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
